@@ -23,7 +23,7 @@ This repository contains a comprehensive review of existing literature within th
 ## Key Insights
 
 ### Concept Map Overview
-![Qualitative Data Analysis Model](assets/E Nexus-concept-map.jpeg)
+[Qualitative Data Analysis Model](assets/E Nexus-concept-map.jpeg)
 
 - **Main Themes:** The primary themes identified include nuclear energy, weapons, energy policy, climate change, and global security.
 - **Sub-Level Concepts:** Key sub-level concepts include fuel processing, IAEA regulations, Russia's market position, and the role of the United States.
