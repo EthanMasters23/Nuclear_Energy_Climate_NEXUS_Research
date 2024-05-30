@@ -36,7 +36,7 @@ The review concludes that nuclear energy is likely to play a significant role in
 ## Preview the Full Literature Review
 You can view the full literature review by [clicking here](NEXUS_Literature_Review.pdf).
 
-![clicking here](NEXUS_Literature_Review.pdf)
+NEXUS_Literature_Review.pdf
 
 ## Repository Contents
 
