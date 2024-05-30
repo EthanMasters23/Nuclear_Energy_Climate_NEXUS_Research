@@ -23,7 +23,7 @@ This repository contains a comprehensive review of existing literature within th
 ## Key Insights
 
 ### Concept Map Overview
-![Qualitative Data Analysis Model](assets/E Nexus-concept-map.jpeg)
+![Qualitative Data Analysis Model](assets/E_Nexus-concept-map.jpeg)
 
 - **Main Themes:** The primary themes identified include nuclear energy, weapons, energy policy, climate change, and global security.
 - **Sub-Level Concepts:** Key sub-level concepts include fuel processing, IAEA regulations, Russia's market position, and the role of the United States.
@@ -35,6 +35,8 @@ The review concludes that nuclear energy is likely to play a significant role in
 
 ## Preview the Full Literature Review
 You can view the full literature review by [clicking here](NEXUS_Literature_Review.pdf).
+
+![clicking here](NEXUS_Literature_Review.pdf)
 
 ## Repository Contents
 
