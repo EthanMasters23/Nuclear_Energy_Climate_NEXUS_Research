@@ -1,6 +1,6 @@
 # Navigating the Nexus: Climate Change, Clean Energy, and Nuclear
 
-Welcome to the repository for the literature review titled "Navigating the Nexus: Climate Change, Clean Energy, and Nuclear." This review explores the intersections of climate change, clean energy, and nuclear nonproliferation to better understand the current status of the field.
+This review explores the intersections of climate change, clean energy, and nuclear nonproliferation to better understand the current status of the field.
 
 ## Project Description
 
@@ -42,18 +42,7 @@ You can view the full literature review by [clicking here](NEXUS_Literature_Revi
 - **NEXUS_Literature_Review.pdf:** Full text of the literature review.
 - **images/**: Contains the qualitative data analysis model and other relevant images.
 
-## References
-
-1. Sovacool, B. K. (2012). *The National Politics of Nuclear Power: Economics, Security, and Governance*.
-2. Weinberg, A. (1985). *The nuclear connection: A reassessment of nuclear power and nuclear proliferation*.
-3. Scheffran, J. (2015). *The Climate-Nuclear Nexus: Exploring the linkages between climate change and nuclear threats*.
-4. Bunn, M. (2019). *Nuclear disarmament, nuclear energy, and climate change: Exploring the linkages*.
-5. Kroenig, M. (2010). *Exporting the Bomb Technology Transfer and the Spread of Nuclear Weapons*.
-
 ## Contact
 
-For more information, please contact [Your Name] at [your.email@example.com].
+For more information, please contact [Ethan Masters] at [emasters6@gatech.edu].
 
----
-
-By understanding the intricate connections between these critical areas, we can work towards a future where energy security and global safety are both prioritized. Thank you for exploring this literature review and contributing to the ongoing discourse in this vital field.
