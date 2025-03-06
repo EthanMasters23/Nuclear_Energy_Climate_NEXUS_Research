@@ -44,13 +44,12 @@ The review concludes that nuclear energy is likely to play a significant role in
 
 ## Repository Contents
 
-📁 **NEXUS Executive Summary/** – A concise overview of the project's findings and recommendations.  
-📄 [Executive_Summary.pdf](NEXUS%20Executive%20Summary/Executive_Summary.pdf)
+📁 **NEXUS Executive Summary/** – A LaTeX Repo for project findings and results along with a references.bib file for citations.
 
-📁 **NEXUS Final Presentation/** – Beamer slides detailing key insights from the research.  
+📁 **NEXUS Final Presentation/** – A LaTeX Repo for beamer slides for the project presentation.
 📄 [Final_Presentation.pdf](NEXUS%20Final%20Presentation/Final_Presentation.pdf)
 
-📁 **NEXUS Literature Review/** – A comprehensive analysis of the existing research on nuclear energy and climate policy.  
+📁 **NEXUS Literature Review/** – A LaTeX repo for the main literature review with corresponding citations in the references.bib file.  
 📄 [Literature_Review.pdf](NEXUS%20Literature%20Review/Literature_Review.pdf)
 
 📁 **assets/** – Supplementary materials, including concept maps and data visualizations.  
@@ -60,7 +59,13 @@ The review concludes that nuclear energy is likely to play a significant role in
 
 ### 📌 **How to Cite This Work**
 If you use this research in your own work, please cite it as follows:
-@misc{Masters2023, author = {Ethan Masters}, title = {Navigating the Nexus: Climate Change, Clean Energy, and Nuclear Nonproliferation}, year = {2023}, url = {https://github.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research} }
+```bibtex
+'@misc{Masters2023,
+  author = {Ethan Masters},
+  title = {Navigating the Nexus: Climate Change, Clean Energy, and Nuclear Nonproliferation},
+  year = {2023},
+  url = {https://github.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research}
+}
 
 ## 📬 Contact
 
