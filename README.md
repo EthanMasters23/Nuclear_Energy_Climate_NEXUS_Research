@@ -50,5 +50,5 @@ The review concludes that nuclear energy is likely to play a significant role in
 
 ## Contact
 
-For more information, please contact [Ethan Masters] at [emasters6@gatech.edu].
+For more information, please contact Ethan Masters at [emasters6@gatech.edu].
 
