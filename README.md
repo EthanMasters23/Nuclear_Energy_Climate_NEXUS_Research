@@ -44,11 +44,28 @@ The review concludes that nuclear energy is likely to play a significant role in
 
 ## Repository Contents
 
-- **README.md:** Project overview and key information.
-- **NEXUS_Literature_Review.pdf:** Full text of the literature review.
-- **images/**: Contains the qualitative data analysis model and other relevant images.
+📁 **NEXUS Executive Summary/** – A concise overview of the project's findings and recommendations.  
+📄 [Executive_Summary.pdf](NEXUS%20Executive%20Summary/Executive_Summary.pdf)
 
-## Contact
+📁 **NEXUS Final Presentation/** – Beamer slides detailing key insights from the research.  
+📄 [Final_Presentation.pdf](NEXUS%20Final%20Presentation/Final_Presentation.pdf)
 
-For more information, please contact Ethan Masters at [emasters6@gatech.edu].
+📁 **NEXUS Literature Review/** – A comprehensive analysis of the existing research on nuclear energy and climate policy.  
+📄 [Literature_Review.pdf](NEXUS%20Literature%20Review/Literature_Review.pdf)
+
+📁 **assets/** – Supplementary materials, including concept maps and data visualizations.  
+🖼️ [E_Nexus_Concept_Map.jpeg](assets/E_Nexus_Concept_Map.jpeg)
+
+## 📖 Citation & Contribution Guidelines
+
+### 📌 **How to Cite This Work**
+If you use this research in your own work, please cite it as follows:
+@misc{Masters2023, author = {Ethan Masters}, title = {Navigating the Nexus: Climate Change, Clean Energy, and Nuclear Nonproliferation}, year = {2023}, url = {https://github.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research} }
+
+## 📬 Contact
+
+For any inquiries, collaborations, or further discussion, feel free to reach out:
+
+- 📧 **Email**: [ethansmasters@outlook.com](mailto:ethansmasters@outlook.com)
+- 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ethan-masters/)
 
