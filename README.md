@@ -42,19 +42,6 @@ The review concludes that nuclear energy is likely to play a significant role in
 ## View the Presentation
 [📄 View Presentation (PDF)](https://raw.githubusercontent.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research/main/assets/NEXUS_Presentation.pdf).
 
-## Repository Contents
-
-📁 **NEXUS Executive Summary/** – A LaTeX Repo for project findings and results along with a references.bib file for citations.
-
-📁 **NEXUS Final Presentation/** – A LaTeX Repo for beamer slides for the project presentation.
-📄 [Final_Presentation.pdf](NEXUS%20Final%20Presentation/Final_Presentation.pdf)
-
-📁 **NEXUS Literature Review/** – A LaTeX repo for the main literature review with corresponding citations in the references.bib file.  
-📄 [Literature_Review.pdf](NEXUS%20Literature%20Review/Literature_Review.pdf)
-
-📁 **assets/** – Add. materials, like concept maps.  
-🖼️ [E_Nexus_Concept_Map.jpeg](assets/E_Nexus_Concept_Map.jpeg)
-
 ## 📖 Citation & Contribution Guidelines
 
 ### 📌 **How to Cite This Work**
