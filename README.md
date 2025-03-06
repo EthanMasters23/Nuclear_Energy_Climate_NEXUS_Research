@@ -60,12 +60,12 @@ The review concludes that nuclear energy is likely to play a significant role in
 ### 📌 **How to Cite This Work**
 If you use this research in your own work, please cite it as follows:
 ```bibtex
-'@misc{Masters2023,
+@misc{Masters2023,
   author = {Ethan Masters},
   title = {Navigating the Nexus: Climate Change, Clean Energy, and Nuclear Nonproliferation},
   year = {2023},
   url = {https://github.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research}
-}
+}```
 
 ## 📬 Contact
 
