@@ -52,13 +52,12 @@ The review concludes that nuclear energy is likely to play a significant role in
 📁 **NEXUS Literature Review/** – A LaTeX repo for the main literature review with corresponding citations in the references.bib file.  
 📄 [Literature_Review.pdf](NEXUS%20Literature%20Review/Literature_Review.pdf)
 
-📁 **assets/** – Supplementary materials, including concept maps and data visualizations.  
+📁 **assets/** – Add. materials, like concept maps.  
 🖼️ [E_Nexus_Concept_Map.jpeg](assets/E_Nexus_Concept_Map.jpeg)
 
 ## 📖 Citation & Contribution Guidelines
 
 ### 📌 **How to Cite This Work**
-If you use this research in your own work, please cite it as follows:
 ```bibtex
 @misc{Masters2023,
   author = {Ethan Masters},
@@ -69,8 +68,6 @@ If you use this research in your own work, please cite it as follows:
 ```
 
 ## 📬 Contact
-
-For any inquiries, collaborations, or further discussion, feel free to reach out:
 
 - 📧 **Email**: [ethansmasters@outlook.com](mailto:ethansmasters@outlook.com)
 - 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/ethan-masters/)
