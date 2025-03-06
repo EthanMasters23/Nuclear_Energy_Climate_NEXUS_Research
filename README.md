@@ -34,7 +34,7 @@ This repository contains a comprehensive review of existing literature within th
 The review concludes that nuclear energy is likely to play a significant role in the global clean energy mix, given its potential to provide stable, zero-carbon energy. However, the risks of nuclear proliferation and safety concerns must be strategically managed. Policymakers must consider these intersections to ensure both energy security and global safety.
 
 ## Preview the Full Literature Review
-You can view the full literature review by [clicking here](assets/NEXUS_Literature_Review.pdf).
+[📄 View Research Paper (PDF)](https://raw.githubusercontent.com/EthanMasters23/Nuclear_Energy_Climate_NEXUS_Research/main/assets/NEXUS_Literature_Review.pdf).
 
 ## Repository Contents
 
